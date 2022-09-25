@@ -1,5 +1,3 @@
 # Eat-At-Home
-# Eat-At-Home
-# EatAtHome
-# EatAtHome
-# EatAtHome
+
+This app is Developed using Java Language 
