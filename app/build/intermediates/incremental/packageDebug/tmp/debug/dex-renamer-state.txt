@@ -1,0 +1,4 @@
+#Sun Nov 22 09:49:47 PKT 2020
+base.0=F\:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

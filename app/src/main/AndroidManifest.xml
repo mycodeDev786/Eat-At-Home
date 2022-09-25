@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.eatathome">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.Customer.MyOrders"></activity>
+        <activity android:name="com.example.Customer.SearchActivity" />
+        <activity android:name="com.example.ApplicationAdmin.AllDelieveryBoys" />
+        <activity android:name="com.example.RestaurantOwner.OwnerRestMenu" />
+        <activity android:name="com.example.RestaurantOwner.AdminMaintainProductsActivity" />
+        <activity android:name="com.example.RestaurantOwner.AdminUserProductsActivity" />
+        <activity android:name="com.example.RestaurantOwner.OwnerNewOrdersActivity" />
+        <activity android:name="com.example.Customer.ConfirmFinalOrderActivity" />
+        <activity android:name="com.example.Customer.CartActivity" />
+        <activity android:name="com.example.Customer.ProductDetailsActivity" />
+        <activity android:name="com.example.RestaurantOwner.OwnerAddNewProduct" />
+        <activity android:name="com.example.Customer.CustomerSettingActivity" />
+        <activity android:name="com.example.Customer.CustomerRestMenu" />
+        <activity android:name="com.example.ApplicationAdmin.AdminShowAllDeliveryBoys" />
+        <activity android:name="com.example.ApplicationAdmin.AdminShowAllRest" />
+        <activity android:name="com.example.ApplicationAdmin.AdminHireNewDelievryBoy" />
+        <activity android:name="com.example.ApplicationAdmin.AddminAddNewRestaurants" />
+        <activity android:name="com.example.RestaurantOwner.RestOwnerPannel" />
+        <activity android:name="com.example.DeliveryBoy.DeliveryBoyPannel" />
+        <activity android:name="com.example.ApplicationAdmin.ApplicationAdminPannel" />
+        <activity android:name="com.example.Customer.HomeActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat" />
+    </application>
+
+</manifest>

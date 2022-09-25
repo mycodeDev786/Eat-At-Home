@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ApplicationAdmin.AddminAddNewRestaurants">
+
+
+
+    <ImageView
+        android:id="@+id/select_rest_image"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:cropToPadding="false"
+        android:scaleType="centerCrop"
+        android:src="@drawable/select_product_image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        />
+
+
+    <EditText
+        android:id="@+id/rest_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/select_rest_image"
+        android:inputType="textMultiLine"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:hint="@string/restaurant_name"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:background="@drawable/input_design"
+        />
+
+
+    <EditText
+        android:id="@+id/rest_owner_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rest_name"
+        android:inputType="textMultiLine"
+        android:layout_marginTop="6dp"
+        android:padding="10dp"
+        android:hint="@string/owner_name"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:background="@drawable/input_design"
+        />
+
+
+    <EditText
+        android:id="@+id/rest_owner_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rest_owner_name"
+        android:inputType="phone"
+        android:layout_marginTop="6dp"
+        android:padding="10dp"
+        android:hint="@string/owner_phone_number"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:background="@drawable/input_design"
+        />
+
+    <EditText
+        android:id="@+id/rest_owner_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rest_owner_phone"
+        android:inputType="textPassword"
+        android:layout_marginTop="6dp"
+        android:padding="10dp"
+        android:hint="@string/owner_password"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:background="@drawable/input_design"
+        />
+
+    <EditText
+        android:id="@+id/rest_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rest_owner_password"
+        android:inputType="text"
+        android:layout_marginTop="6dp"
+        android:padding="10dp"
+        android:hint="@string/restaurant_adress"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:background="@drawable/input_design"
+        />
+
+    <EditText
+        android:id="@+id/rest_city"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rest_address"
+        android:inputType="text"
+        android:layout_marginTop="6dp"
+        android:padding="10dp"
+        android:hint="@string/restaurant_city"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:background="@drawable/input_design"
+        />
+
+
+    <Button
+        android:onClick="addNewRest"
+        android:id="@+id/add_new_rest_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rest_city"
+        android:text="@string/add_restaurant"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:padding="17dp"
+        android:layout_marginTop="20dp"
+        android:textSize="18sp"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:background="@drawable/buttons"
+        />
+
+
+</RelativeLayout>

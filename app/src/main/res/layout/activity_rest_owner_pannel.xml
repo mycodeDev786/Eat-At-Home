@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.example.RestaurantOwner.RestOwnerPannel">
+
+    <TextView
+        android:onClick="logout"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="@string/logout"
+        android:padding="5dp"
+        android:paddingStart="20dp"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:background="@drawable/buttons"
+        style="bold | italic"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+
+
+        />
+    <ImageView
+        android:id="@+id/app_logo"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/applogo"
+        />
+
+    <Button
+        android:onClick="addNewproducts"
+        android:id="@+id/add_new_rest_btn"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_above="@+id/maintain_rest_btn"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/buttons"
+        android:text="Add New Products"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textAllCaps="false"
+        />
+
+    <Button
+        android:onClick="maintainProdcutsButton"
+        android:id="@+id/maintain_rest_btn"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_above="@+id/add_delivery_boy_btn"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/input_design"
+        android:text="@string/maintain_restaurants"
+        android:textColor="#121111"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        />
+
+    <Button
+
+        android:onClick="checkNewOrdersBtn"
+        android:id="@+id/add_delivery_boy_btn"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_above="@+id/maintain_delivery_boy_btn"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/buttons"
+        android:text="Check New Orders"
+        android:textColor="@android:color/white"
+        android:layout_alignParentBottom="true"
+        android:textSize="20sp"
+        android:textAllCaps="false"
+        />
+
+
+
+
+</RelativeLayout>

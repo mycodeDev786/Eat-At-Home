@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "379316747305",
+    "firebase_url": "https://eat-at-home-e09a5.firebaseio.com",
+    "project_id": "eat-at-home-e09a5",
+    "storage_bucket": "eat-at-home-e09a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379316747305:android:20b205ed270b2b75b27038",
+        "android_client_info": {
+          "package_name": "com.example.eatathome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379316747305-0f3eg9tuefs1erhoqo4tgpnlgvvchich.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlFiuSJdPe4l9d8mdlwnCyg3gqrRJeJGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379316747305-0f3eg9tuefs1erhoqo4tgpnlgvvchich.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

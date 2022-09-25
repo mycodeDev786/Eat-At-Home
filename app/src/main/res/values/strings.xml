@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Eat At Home</string>
+    <string name="order_anything_you_wants_from_home">Order anything you wants from home</string>
+    <string name="already_have_an_account_login">Already Have an Account? Login</string>
+    <string name="join_now">Join Now</string>
+    <string name="create_account">Create Account</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="application_admin">Application Admin</string>
+    <string name="customer">Customer</string>
+    <string name="delievery_boy">Delievery Boy</string>
+    <string name="res_owner">Res. Owner</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="login">Login</string>
+    <string name="maintain_delievry_boy">Maintain Delievry Boy</string>
+    <string name="add_new_delivery_boy">Add New Delivery Boy</string>
+    <string name="maintain_restaurants">Maintain Restaurants</string>
+    <string name="add_new_restaurant">Add New Restaurant</string>
+    <string name="logout">Logout</string>
+    <string name="owner_phone_number">Owner Phone Number...</string>
+    <string name="add_restaurant">Add Restaurant</string>
+    <string name="restaurant_city">Restaurant City...</string>
+    <string name="restaurant_adress">Restaurant Adress...</string>
+    <string name="owner_password">Owner Password...</string>
+    <string name="owner_name">Owner Name...</string>
+    <string name="restaurant_name">Restaurant Name...</string>
+</resources>

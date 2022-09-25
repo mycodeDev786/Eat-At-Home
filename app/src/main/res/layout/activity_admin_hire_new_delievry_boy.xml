@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ApplicationAdmin.AdminHireNewDelievryBoy">
+
+
+
+    <ImageView
+        android:id="@+id/select_delBoy_image"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:cropToPadding="false"
+        android:scaleType="centerCrop"
+        android:src="@drawable/select_product_image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        />
+
+
+
+
+    <EditText
+        android:id="@+id/delboy_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/select_delBoy_image"
+        android:inputType="textMultiLine"
+        android:layout_marginTop="6dp"
+        android:padding="10dp"
+        android:hint="Name"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:background="@drawable/input_design"
+        />
+
+
+    <EditText
+        android:id="@+id/delboy_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/delboy_name"
+        android:inputType="phone"
+        android:layout_marginTop="6dp"
+        android:padding="10dp"
+        android:hint="Phone"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:background="@drawable/input_design"
+        />
+
+    <EditText
+        android:id="@+id/delboy_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/delboy_phone"
+        android:inputType="textPassword"
+        android:layout_marginTop="6dp"
+        android:padding="10dp"
+        android:hint="Password"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:background="@drawable/input_design"
+        />
+
+    <EditText
+        android:id="@+id/delboy_region"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/delboy_password"
+        android:inputType="text"
+        android:layout_marginTop="6dp"
+        android:padding="10dp"
+        android:hint="Delivery Region"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:background="@drawable/input_design"
+        />
+
+    <EditText
+        android:id="@+id/delboy_city"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/delboy_region"
+        android:inputType="text"
+        android:layout_marginTop="6dp"
+        android:padding="10dp"
+        android:hint="City"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:background="@drawable/input_design"
+        />
+
+
+    <Button
+
+        android:onClick="addnewdelboy"
+        android:id="@+id/add_new_rest_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/delboy_city"
+        android:text="Add Delivery Boy"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:padding="17dp"
+        android:layout_marginTop="20dp"
+        android:textSize="18sp"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:background="@drawable/buttons"
+        />
+
+
+</RelativeLayout>

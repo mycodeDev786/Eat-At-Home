@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navIamAppAdmin"
+        android:title="@string/application_admin"
+        android:icon="@drawable/icon_admin"
+        android:iconTint="#070707"
+        />
+
+    <item android:id="@+id/navIamResOwner"
+        android:title="@string/res_owner"
+        android:icon="@drawable/icon_rest"
+        android:iconTint="#070707"
+        />
+
+    <item android:id="@+id/navIamDelievryBoy"
+        android:title="@string/delievery_boy"
+        android:icon="@drawable/icon_delievery"
+        android:iconTint="#070707"
+        />
+
+    <item android:id="@+id/navIamUser"
+        android:title="@string/customer"
+        android:icon="@drawable/icon_customer"
+        android:iconTint="#070707"
+        />
+</menu>

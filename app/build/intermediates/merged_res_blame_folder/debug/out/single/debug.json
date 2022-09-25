@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_select_product_image.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\drawable\\select_product_image.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_delievery.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_delievery.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_search.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\search.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_setting.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\setting.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_rest.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_rest.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_customer.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_customer.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_owner_rest_menu.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_owner_rest_menu.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_orders.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_orders.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_all_restaurants_layout.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\all_restaurants_layout.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_orders_layout.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\new_orders_layout.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_rest.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_rest.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_delievery.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_delievery.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_owner_new_orders.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_owner_new_orders.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_category.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\drawable\\category.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_rest.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_rest.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_buttons.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\drawable-v24\\buttons.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_confirm_final_order.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_confirm_final_order.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_customer.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_customer.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_rest.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_rest.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_applogo.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\drawable-v24\\applogo.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\menu-v26_home_menu.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\menu-v26\\home_menu.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_orders.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_orders.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_cart.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\drawable\\nav_cart.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_customer.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_customer.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_customer.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_customer.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_delievery.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_delievery.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_admin.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_admin.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_user_products.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_admin_user_products.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_delievery.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_delievery.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_setting.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_customer_setting.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_setting.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\setting.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_delievery.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_delievery.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\drawable-v24\\background.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_admin.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_admin.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_maintain_products.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_admin_maintain_products.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_delivery_boy_pannel.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_delivery_boy_pannel.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_delievery.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_delievery.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_admin.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_admin.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_customer.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_customer.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_rest_menu.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_customer_rest_menu.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_delievery.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_delievery.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product_details.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_product_details.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_orders.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_orders.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_show_all_delivery_boys.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_admin_show_all_delivery_boys.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_show_all_rest.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_admin_show_all_rest.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_orders.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_orders.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_admin.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_admin.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_admin.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_admin.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_cart_items_layout.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\cart_items_layout.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_addmin_add_new_restaurants.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_addmin_add_new_restaurants.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_search.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\search.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_admin.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_admin.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\menu-v26_login_menu.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\menu-v26\\login_menu.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_login_header.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\nav_login_header.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_customer.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_customer.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_orders.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_orders.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_rest.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_rest.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_design.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\drawable\\input_design.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rest_owner_pannel.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_rest_owner_pannel.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\menu_home_menu.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\menu\\home_menu.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_rest.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_rest.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cart.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_setting.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\setting.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_search.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\search.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_home_header.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\nav_home_header.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_admin.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_admin.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_rest.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_rest.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_setting.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\setting.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_orders.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_orders.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_owner_add_new_product.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_owner_add_new_product.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_setting.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\setting.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orders.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\drawable\\orders.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_rest_item_layout.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\rest_item_layout.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_orders.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_my_orders.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_all_delievery_boys.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_all_delievery_boys.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_orders.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_orders.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_customer.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_customer.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cart.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\drawable\\cart.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_setting.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\setting.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\menu_login_menu.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\menu\\login_menu.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_hire_new_delievry_boy.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_admin_hire_new_delievry_boy.xml"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_application_admin_pannel.xml.flat",
+        "source": "F:\\mcs 4th\\Azhar Hussain\\Azhar Hussain\\EatAtHome\\app\\src\\main\\res\\layout\\activity_application_admin_pannel.xml"
+    }
+]

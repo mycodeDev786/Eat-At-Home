@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">379316747305-0f3eg9tuefs1erhoqo4tgpnlgvvchich.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://eat-at-home-e09a5.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">379316747305</string>
+    <string name="google_api_key" translatable="false">AIzaSyBlFiuSJdPe4l9d8mdlwnCyg3gqrRJeJGU</string>
+    <string name="google_app_id" translatable="false">1:379316747305:android:20b205ed270b2b75b27038</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBlFiuSJdPe4l9d8mdlwnCyg3gqrRJeJGU</string>
+    <string name="google_storage_bucket" translatable="false">eat-at-home-e09a5.appspot.com</string>
+    <string name="project_id" translatable="false">eat-at-home-e09a5</string>
+</resources>
